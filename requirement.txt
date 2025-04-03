@@ -1,0 +1,5 @@
+streamlit
+langflow>=0.5.0
+openai
+requests
+beautifulsoup4
